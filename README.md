@@ -1,6 +1,12 @@
-# FromYa3
+# 🎓 Проект fromya3
 
-A Pen created on CodePen.
+Этот репозиторий — **итог моего обучения на Яндекс.Практикуме**.
+Здесь собран финальный проект, который я сделал своими руками.
 
-Original URL: [https://codepen.io/jqicbbsm-the-reactor/pen/ZYbaBBO](https://codepen.io/jqicbbsm-the-reactor/pen/ZYbaBBO).
+## ✨ Что внутри:
+- HTML/CSS/JS код
+- Мои эксперименты
+- Результат обучения
 
+## 🏆 Статус:
+✅ Завершён, сохранён как память
